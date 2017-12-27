@@ -1,5 +1,7 @@
 # Recommender-System
 Recommender System that implemented basic machine learning algorithms
 
-[Course Website](http://cseweb.ucsd.edu/classes/fa17/cse258-a/)
-
+Tasks are as follow:
+1. Basic evaluations on Beer using Regression
+2. Basic evaluations on Beer using Classification
+1. Basic evaluations on Beer using Dimensional Reduction
